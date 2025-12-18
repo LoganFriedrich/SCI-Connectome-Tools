@@ -1,0 +1,13 @@
+# Core dependencies for IMS extraction and analysis
+numpy
+scipy
+tifffile
+h5py
+matplotlib
+imaris-ims-file-reader
+
+# BrainGlobe ecosystem (install separately via conda/pip)
+# brainreg
+# cellfinder
+# brainglobe-segmentation
+# brainglobe-atlasapi
